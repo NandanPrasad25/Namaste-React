@@ -1,4 +1,4 @@
-4303
+4304
 71C:\xampp\htdocs\Namaste-react\node_modules\htmlnano\lib\presets\max.cjs133808075152302044 0
 61C:\xampp\htdocs\Namaste-react\node_modules\json5\lib\parse.js133808075151476882 0
 99C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133808075152178376 0
@@ -24,21 +24,17 @@
 78C:\xampp\htdocs\Namaste-react\node_modules\@parcel\utils\src\getCertificate.js133808075152937692 0
 75C:\xampp\htdocs\Namaste-react\node_modules\cosmiconfig\dist\defaults.js.map133808075152854107 0
 85C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\setimmediate.js133808075158924618 0
-36C:\xampp\htdocs\Namaste-react\App.js133808136607182354 0
+36C:\xampp\htdocs\Namaste-react\App.js133810422367434783 0
 52C:\xampp\htdocs\Namaste-react\node_modules\commander133808075152415922 1
+77C:\xampp\htdocs\Namaste-react\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133808075153845041 0
+108C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133808075153050907 0
+60C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies133808075155029631 1
+91C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133808075155674271 0
+85C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\requests\DevDepRequest.js133808075154336901 0
+40C:\xampp\htdocs\Namaste-react\.gitignore133808555140633229 0
+118C:\xampp\htdocs\Namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133808075150684690 0
 76C:\xampp\htdocs\Namaste-react\node_modules\@parcel\workers\lib\WorkerFarm.js133808075153893590 0
-34C:\xampp\htdocs\Namaste-react\dist133808136539158810 1
-72C:\xampp\htdocs\Namaste-react\node_modules\js-yaml\lib\schema\default.js133808075151508788 0
-72C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\esm\_inherits.js133808075155122140 0
-55C:\xampp\htdocs\Namaste-react\node_modules\lightningcss133808075152292021 1
-74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\CU.js133808075156151571 0
-51C:\xampp\htdocs\Namaste-react\node_modules\has-flag133808075150944786 1
-71C:\xampp\htdocs\Namaste-react\node_modules\color-convert\conversions.js133808075150574602 0
-74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\KM.js133808075157792952 0
-86C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\pad-start-end.js133808075158437214 0
-40C:\xampp\htdocs\Namaste-react\styles.css133798441265118759 0
-77C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies\lz4\lib\Makefile133808075152740205 0
-65C:\xampp\htdocs\Namaste-react\node_modules\@parcel\runtime-js\src133808075153490931 1
+34C:\xampp\htdocs\Namaste-react\dist133810422369033949 1
 98C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.js133808075151497719 0
 70C:\xampp\htdocs\Namaste-react\node_modules\@parcel\workers\src\process133808075153348555 1
 74C:\xampp\htdocs\Namaste-react\node_modules\domutils\lib\traversal.d.ts.map133808075153859115 0
@@ -68,6 +64,16 @@
 39C:\xampp\htdocs\Namaste-react\README.md133808134406380087 0
 81C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\webauthn.js133808075159755132 0
 71C:\xampp\htdocs\Namaste-react\node_modules\semver\functions\rcompare.js133808075153527457 0
+72C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\esm\_inherits.js133808075155122140 0
+55C:\xampp\htdocs\Namaste-react\node_modules\lightningcss133808075152292021 1
+74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\CU.js133808075156151571 0
+51C:\xampp\htdocs\Namaste-react\node_modules\has-flag133808075150944786 1
+71C:\xampp\htdocs\Namaste-react\node_modules\color-convert\conversions.js133808075150574602 0
+74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\KM.js133808075157792952 0
+86C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\pad-start-end.js133808075158437214 0
+40C:\xampp\htdocs\Namaste-react\styles.css133798441265118759 0
+77C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies\lz4\lib\Makefile133808075152740205 0
+65C:\xampp\htdocs\Namaste-react\node_modules\@parcel\runtime-js\src133808075153490931 1
 91C:\xampp\htdocs\Namaste-react\node_modules\react-dom\cjs\react-dom-test-utils.production.js133808134797081651 0
 76C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\htmlparser2133808075152313491 1
 48C:\xampp\htdocs\Namaste-react\node_modules\chalk133808075151508788 1
@@ -137,9 +143,6 @@
 59C:\xampp\htdocs\Namaste-react\node_modules\srcset\readme.md133808075150750095 0
 54C:\xampp\htdocs\Namaste-react\node_modules\detect-libc133808075151202162 1
 99C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js133808075154994241 0
-94C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib\helpers.d.ts.map133808075152221181 0
-86C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133808075154976832 0
-74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\DJ.js133808075156252687 0
 74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\PN.js133808075158588030 0
 70C:\xampp\htdocs\Namaste-react\node_modules\regenerator-runtime\path.js133808075150207067 0
 57C:\xampp\htdocs\Namaste-react\node_modules\dom-serializer133808075152246258 1
@@ -1334,11 +1337,6 @@
 97C:\xampp\htdocs\Namaste-react\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133808075152425951 0
 82C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\entities\lib\maps133808075152381282 1
 113C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-html.d.ts.map133808075152534311 0
-77C:\xampp\htdocs\Namaste-react\node_modules\cosmiconfig\dist\ExplorerBase.d.ts133808075153845041 0
-108C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133808075153050907 0
-60C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies133808075155029631 1
-91C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133808075155674271 0
-85C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\requests\DevDepRequest.js133808075154336901 0
 84C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133808075154922706 0
 77C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib133808075153110766 1
 88C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\css-transitions.js133808075156037084 0
@@ -1349,6 +1347,9 @@
 90C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib\helpers.d.ts133808075152820724 0
 71C:\xampp\htdocs\Namaste-react\node_modules\@parcel\watcher\package.json133808075153738605 0
 94C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.c133808075153859115 0
+94C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib\helpers.d.ts.map133808075152221181 0
+86C:\xampp\htdocs\Namaste-react\node_modules\lmdb\dependencies\lz4\lib\lz4frame_static.h133808075154976832 0
+74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\DJ.js133808075156252687 0
 88C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib\index.d.ts133808075152877721 0
 89C:\xampp\htdocs\Namaste-react\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts133808075152937692 0
 74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\TJ.js133808075159308010 0
@@ -1623,7 +1624,6 @@
 111C:\xampp\htdocs\Namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts133808075151581678 0
 84C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\audiotracks.js133808075153768931 0
 113C:\xampp\htdocs\Namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\package.json133808075151152657 0
-118C:\xampp\htdocs\Namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\filesystem.js133808075150684690 0
 74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\NG.js133808075158317493 0
 115C:\xampp\htdocs\Namaste-react\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js133808075150921387 0
 75C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\scripts\ast_grep.js133808075155462669 0
@@ -2002,7 +2002,6 @@
 65C:\xampp\htdocs\Namaste-react\node_modules\js-tokens\package.json133808075149959844 0
 68C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_using_ctx133808075156371265 1
 65C:\xampp\htdocs\Namaste-react\node_modules\js-yaml\lib\snippet.js133808075153280858 0
-72C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\constants.js133808075154209303 0
 85C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\border-image.js133808075154361782 0
 74C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\regions\KG.js133808075157782915 0
 64C:\xampp\htdocs\Namaste-react\node_modules\browserslist\parse.js133808075151615930 0
@@ -2017,6 +2016,7 @@
 80C:\xampp\htdocs\Namaste-react\node_modules\@parcel\transformer-babel\lib\flow.js133808075152246258 0
 86C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\css-scrollbar.js133808075155906919 0
 88C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\text-decoration.js133808075159257802 0
+72C:\xampp\htdocs\Namaste-react\node_modules\js-yaml\lib\schema\default.js133808075151508788 0
 73C:\xampp\htdocs\Namaste-react\node_modules\js-yaml\lib\schema\failsafe.js133808075151999437 0
 59C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib133808075155612358 1
 90C:\xampp\htdocs\Namaste-react\node_modules\caniuse-lite\data\features\css-focus-visible.js133808075155347399 0
@@ -3366,7 +3366,7 @@
 84C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_to_primitive\package.json133808075156252687 0
 91C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_to_consumable_array\package.json133808075156252687 0
 101C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json133808075156252687 0
-52C:\xampp\htdocs\Namaste-react\dist\index.7826abd7.js133808136539095656 0
+52C:\xampp\htdocs\Namaste-react\dist\index.7826abd7.js133810422368855508 0
 97C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_skip_first_generator_next\package.json133808075156199677 0
 87C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_read_only_error\package.json133808075156199677 0
 99C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_possible_constructor_return\package.json133808075156178977 0
@@ -3391,7 +3391,7 @@
 64C:\xampp\htdocs\Namaste-react\node_modules\@parcel\feature-flags133808075151561395 1
 74C:\xampp\htdocs\Namaste-react\node_modules\@parcel\utils\src\objectHash.js133808075154029831 0
 75C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_get\package.json133808075155991421 0
-57C:\xampp\htdocs\Namaste-react\dist\index.1303bb05.css.map133808135826605468 0
+57C:\xampp\htdocs\Namaste-react\dist\index.1303bb05.css.map133810413219977789 0
 68C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\utils.js133808075155556728 0
 83C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_export_star\package.json133808075155965036 0
 79C:\xampp\htdocs\Namaste-react\node_modules\@swc\helpers\_\_dispose\package.json133808075155965036 0
@@ -4164,6 +4164,7 @@
 77C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\public\Symbols.js133808075155347399 0
 76C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\src\public\Target.js133808075155347399 0
 73C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\assetUtils.js133808075153490931 0
+72C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\constants.js133808075154209303 0
 74C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\Environment.js133808075154361782 0
 68C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\index.js133808075154495578 0
 77C:\xampp\htdocs\Namaste-react\node_modules\@parcel\core\lib\InternalConfig.js133808075154641869 0
@@ -4295,10 +4296,10 @@
 58C:\xampp\htdocs\Namaste-react\node_modules\.bin\parcel.ps1133808075161162589 0
 58C:\xampp\htdocs\Namaste-react\node_modules\.bin\semver.ps1133808075161162589 0
 74C:\xampp\htdocs\Namaste-react\node_modules\.bin\update-browserslist-db.cmd133808075161175108 0
-53C:\xampp\htdocs\Namaste-react\dist\index.1303bb05.css133808135826467155 0
+53C:\xampp\htdocs\Namaste-react\dist\index.1303bb05.css133810413219883224 0
 52C:\xampp\htdocs\Namaste-react\dist\index.6bd02f5a.js133808134217691131 0
 56C:\xampp\htdocs\Namaste-react\dist\index.6bd02f5a.js.map133808134217691131 0
-56C:\xampp\htdocs\Namaste-react\dist\index.7826abd7.js.map133808136539158810 0
-45C:\xampp\htdocs\Namaste-react\dist\index.html133808136016922264 0
+56C:\xampp\htdocs\Namaste-react\dist\index.7826abd7.js.map133810422369033949 0
+45C:\xampp\htdocs\Namaste-react\dist\index.html133810413222301246 0
 60C:\xampp\htdocs\Namaste-react\dist\Namaste-react.3464ddca.js133808134217547642 0
 64C:\xampp\htdocs\Namaste-react\dist\Namaste-react.3464ddca.js.map133808134217547642 0
